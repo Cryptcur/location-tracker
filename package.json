@@ -13,7 +13,7 @@
     "@react-navigation/compat": "^5.1.24",
     "@react-navigation/native": "^5.4.3",
     "@react-navigation/stack": "^5.4.0",
-    "bcrypt": "^4.0.1",
+    "bcrypt": "^5.0.0",
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.15",
